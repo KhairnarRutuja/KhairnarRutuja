@@ -1,4 +1,4 @@
-![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20Banner.gif)
+![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20banner%202.gif)
 
 <h1 align="center">Hi 👋, I'm Rutuja S. Khairnar</h1>
 <h3 align="center">A Passionate Data Scientist From India</h3>
