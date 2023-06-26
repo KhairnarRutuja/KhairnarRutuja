@@ -4,9 +4,10 @@
 <h3 align="center">A Passionate Data Scientist From India</h3>
 
 <img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAkanksha-codes%2Fakanksha-codes&psig=AOvVaw2hrSp971phhcgW4jwvza5U&ust=1687882504009000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCWvbuq4f8CFQAAAAAdAAAAABAp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairnarrutuja&label=Profile%20views&color=0e75b6&style=flat" alt="khairnarrutuja" /> </p>
 
-- 🌱 I’m currently **"immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!"**
+- 🌱 I’m currently **immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!**
 
 - 💬 Ask me about **Python,Machine Learning**
 
