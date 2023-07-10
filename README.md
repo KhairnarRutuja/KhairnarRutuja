@@ -1,4 +1,3 @@
-# [![](https://visitcount.itsvg.in/api?id=KhairnarRutuja&icon=0&color=15)](https://visitcount.itsvg.in)
 
 ![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20Banner.gif)
 
