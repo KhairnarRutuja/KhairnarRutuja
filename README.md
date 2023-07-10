@@ -1,5 +1,4 @@
 
-![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20Banner.gif)
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
 
