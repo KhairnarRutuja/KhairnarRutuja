@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20Banner.gif)
 
-<img align="right" alt="coding" width="300" src="https://dribbble.com/shots/4536550-Newsfeed">
+<img align="right" alt="coding" width="300" src="https://www.google.com/search?q=Girl+study+in+computer+and+drink+coffee+animated+gif&tbm=isch&ved=2ahUKEwjsmb7iwoSAAxUUoukKHZfkBmcQ2-cCegQIABAA&oq=Girl+study+in+computer+and+drink+coffee+animated+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CqBFjJQWCdQ2gCcAB4AIABrAGIAdYSkgEEMC4yMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=piysZOyuHpTEpgeXyZu4Bg&bih=746&biw=1536#imgrc=NySj1caicDMjYM&imgdii=UgwdF3b9PIsEbM">
 
 
 # 💫 About Me:
