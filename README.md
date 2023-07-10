@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=KhairnarRutuja&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KhairnarRutuja&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20Banner.gif)
 
