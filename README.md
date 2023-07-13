@@ -7,7 +7,7 @@
 🌱 I’m currently immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!<br><br>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
 
-🏄‍ Always learning new things and looking to contribute to open source as much as possible<br><br>
+🏄‍ <br><br>
 
 💬 Ask me about Data Science,Machine Learning<br><br>
 
@@ -42,7 +42,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
   
-<b>❤️ Grateful for every pair of eyes that land on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
+<b>❤️ Thank you for gracing my GitHub profile with your presence! I'm truly grateful for your interest in my work and for your support ❤️</b>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
