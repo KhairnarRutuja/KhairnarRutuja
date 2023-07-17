@@ -8,7 +8,9 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
 
-💬 Ask me about Data Science,Machine Learning<br><br>
+⚡ The goal to turn data into information and information into insight
+
+💬 Ask me about Data Science, Machine Learning<br><br>
 
 📫 How to reach me rutujakhairnar2019@gmail.com<br><br>
 
