@@ -7,7 +7,6 @@
 🌱 I’m currently immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!<br><br>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
-
 ⚡ The goal to turn data into information and information into insight
 
 💬 Ask me about Data Science, Machine Learning<br><br>
