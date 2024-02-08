@@ -4,17 +4,17 @@
 
 
 # 💫 About Me:
-🌱 I’m currently immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!<br><br>
+🌱 As a Data Science student I have acquired knowledge and skills of machine learning, deep learning, and data analysis. Through academic studies and practical projects, I'm honing my skills in uncovering patterns and insights from complex datasets. With a passion for problem-solving and a commitment to staying updated on the latest advancements in the field, I'm poised to make meaningful contributions to the world of data science.<br><br>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
+<img align="right" alt="coding" width="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 📜 The goal is to turn data into information and information into insight<br><br>
 
-💬 Ask me about Data Science, Machine Learning<br><br>
+💬 Ask me about Data Science, Machine Learning, Deep Learning<br><br>
 
 📫 How to reach me rutujakhairnar2019@gmail.com<br><br>
 
-⚡ Fun fact " Turning raw data into gold mines, one line of code at a time."
+⚡ Fun fact " Crafting Insights from Chaos: Where Data Science Meets Magic!"
 
 
 ## 🌐 Socials:
