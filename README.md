@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Rutuja Khairnar</h1>
-<h3 align="center">𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotcore.info%2Fbabki%2Fmanagement-animated-gif.htm&psig=AOvVaw0RyoJoMllydSRL3tM6QG0S&ust=1707488956171000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiWzpX6m4QDFQAAAAAdAAAAABAg">
+![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20banner%202.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khairnarrutuja&label=Profile%20views&color=0e75b6&style=flat" alt="khairnarrutuja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairnarrutuja" alt="khairnarrutuja" /></a> </p>
+# 💫 About Me:
+🌱 I’m currently immersed in the enchanting world of Data Science, where algorithms dance, datasets whisper their tales, and I embark on a thrilling quest to transform raw information into remarkable insights!<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/𝐑𝐮𝐭𝐮𝐣𝐚-𝐊𝐡𝐚𝐢𝐫𝐧𝐚𝐫" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝐑𝐮𝐭𝐮𝐣𝐚-𝐊𝐡𝐚𝐢𝐫𝐧𝐚𝐫" height="30" width="40" /></a>
-<a href="https://medium.com/rutuja-khairnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rutuja-khairnar" height="30" width="40" /></a>
-</p>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+📜 The goal is to turn data into information and information into insight<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairnarrutuja&show_icons=true&locale=en&layout=compact" alt="khairnarrutuja" /></p>
+💬 Ask me about Data Science, Machine Learning<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khairnarrutuja&show_icons=true&locale=en" alt="khairnarrutuja" /></p>
+📫 How to reach me rutujakhairnar2019@gmail.com<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarrutuja&" alt="khairnarrutuja" /></p>
+⚡ Fun fact " Turning raw data into gold mines, one line of code at a time."
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuja-khairnar-2b56b6201) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KhairnarRutuja&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KhairnarRutuja&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhairnarRutuja&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KhairnarRutuja&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KhairnarRutuja&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+  
+<b>❤️ Thank you for gracing my GitHub profile with your presence! I'm truly grateful for your interest in my work and for your support ❤️</b>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
