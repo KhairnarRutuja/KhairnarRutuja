@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> 
+</p>
+ 
 ![logo](https://github.com/KhairnarRutuja/KhairnarRutuja/blob/main/Github%20banner%202.gif)
 
 
