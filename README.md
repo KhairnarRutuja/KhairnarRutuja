@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> 
 </p>
  
-![logo](https://i0.wp.com/swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif?fit=777%2C437&ssl=1)
+![logo](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)
 
 
 # 💫 About Me:
