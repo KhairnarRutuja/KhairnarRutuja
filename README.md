@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> 
 </p>
  
-![logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*B4NL8NsOivEV0UUx8CdYZg.gif)
+![logo](https://i.makeagif.com/media/4-21-2022/Lvib36.gif)
 
 
 # 💫 About Me:
