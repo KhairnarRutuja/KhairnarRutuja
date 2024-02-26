@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> 
 </p>
  
-![logo](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)
+![logo](https://d13ot9o61jdzpp.cloudfront.net/images/dark_theme_db.gif)
 
 
 # 💫 About Me:
