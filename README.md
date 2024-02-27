@@ -1,9 +1,6 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=KhairnarRutuja&label=Profile%20views&color=0e75b6&style=flat" alt="KhairnarRutuja" /> 
 </p>
-<a href="https://github.com/KhairnarRutuja/github-profile-summary-cards/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/KhairnarRutuja/github-profile-summary-cards?style=for-the-badge&logo=github&color=magenta&logoColor=D9E0EE&labelColor=302D41">
-</a>
 
 ![logo](https://miro.medium.com/v2/resize:fit:679/1*E6hq6ugrn79zjUU0fcwI6w.gif)
 
