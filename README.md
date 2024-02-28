@@ -4,7 +4,7 @@
 
 <h2> Hello there, I'm Rutuja Khairnar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A3%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB-2b56b6201/) [![Mail](https://img.shields.io/badge/Mail-555555?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:rutujakhairnar2019@email.com) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rutujakhairnar2019)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A3%F0%9D%90%9A-%F0%9D%90%8A%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB-2b56b6201/) [![Mail](https://img.shields.io/badge/Mail-555555?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:rutujakhairnar2019@email.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rutujasanjaykhairnar) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rutujakhairnar2019)
 
 ![logo](https://miro.medium.com/v2/resize:fit:679/1*E6hq6ugrn79zjUU0fcwI6w.gif)
 
